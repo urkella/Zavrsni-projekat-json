@@ -8,6 +8,7 @@
       "time": "00:30",
       "image": "https://www.yumcurry.com/wp-content/uploads/2020/06/pizza-margherita-recipe.jpg",
       "slug": "diamond-pizza",
+      "userId": 2,
       "id": 1
     },
     {
@@ -18,6 +19,7 @@
       "time": "01:10",
       "image": "https://onlineculinaryschool.net/wp-content/uploads/2018/10/online_culinary_school_pizza_margherita-1.jpg",
       "slug": "golden-pizza",
+      "userId": 2,
       "id": 2
     },
     {
@@ -28,6 +30,7 @@
       "time": "01:40",
       "image": "http://www.picadostava.rs/wp-content/uploads/2017/01/bg-pizza.jpg",
       "slug": "pizza-san-gioavni",
+      "userId": 2,
       "id": 3
     },
     {
@@ -38,6 +41,7 @@
       "time": "02:30",
       "image": "https://www.didykitchen.com/wp-content/uploads/2018/06/pizza-capricciosa-pizza.jpg",
       "slug": "pizza-capricciosa",
+      "userId": 2,
       "id": 4
     }
   ],
@@ -61,6 +65,21 @@
       "email": "aleksaprebiracevicorona@outlook.comsada",
       "password": "aleksa95",
       "id": 4
+    },
+    {
+      "email": "adsdsa@gmail.com",
+      "password": "aleksa95",
+      "id": 6
+    },
+    {
+      "email": "aleksaprebiracevicorona@outlook232.com",
+      "password": "aleksa95",
+      "id": 7
+    },
+    {
+      "email": "aleksaprebiracevicorona33@outlook.com",
+      "password": "aleksa95",
+      "id": 8
     }
   ]
 }
